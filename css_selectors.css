@@ -1,0 +1,31 @@
+/* universal selector */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+
+/* element selector */
+
+p {
+    text-align: center;
+    color: red;
+  }
+
+  /* id selector */
+  #para2 {
+    text-align: center;
+    text-decoration: aliceblue;
+    color: rgb(38, 255, 0);
+  }
+
+  /* class selector */
+
+
+    .div1 {
+        text-align: center;
+        color: blue;
+        border : 2px solid black;
+    }
